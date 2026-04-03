@@ -25,3 +25,4 @@ The model achieved good accuracy in predicting heart disease and helps in identi
 
 ##  Author
 Chethan G M
+Update 1
