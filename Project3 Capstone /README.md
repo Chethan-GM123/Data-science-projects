@@ -8,7 +8,7 @@ This project develops a machine learning model to predict cellphone prices based
 - Support competitive market positioning  
 - Improve pricing decisions using data insights  
 
-## ⚙️ Methodology
+## Methodology
 - Data preprocessing and cleaning  
 - Exploratory Data Analysis (EDA)  
 - Feature engineering  
@@ -19,7 +19,7 @@ This project develops a machine learning model to predict cellphone prices based
 - Built a predictive model with strong performance  
 - Generated insights useful for business strategy  
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
