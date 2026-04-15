@@ -1,7 +1,8 @@
 # Telecom Customer Churn Prediction
 
 ## Project Overview
-This project aims to predict telecom customers who are likely to discontinue services using machine learning techniques.
+- Machine learning project developed during my Data Science internship at Rubixe Technologies Pvt. Ltd., Bangalore
+- Developed a machine learning model to predict customer churn and identify customers likely to leave 
 
 ## Objectives
 - Identify customers at risk of churn.
