@@ -32,12 +32,12 @@ To analyze health data and build a model that can accurately predict heart disea
 
 * Accuracy: 85% (example — update if needed)
 
-## 📂 Files in this Project
+## 📂Files in this Project
 
 * `Heart Disease Pred chethangm.ipynb` → Main notebook
 * Dataset file
 
-## 💡 Conclusion
+##  Conclusion
 
 The model helps in early prediction of heart disease, which can support better healthcare decisions.
 
